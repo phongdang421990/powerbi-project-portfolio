@@ -11,8 +11,6 @@ A Power BI dashboard that tracks campaign performance, ROI, and daily spend acro
 ### [🎧 Contact Center SLA Tracker](./contact-center-sla/)
 Power BI report monitoring ticket response time, SLA compliance, and agent performance.
 
-### [📦 Sales & Product Insights](./sales-insights/)
-Analytical dashboard for revenue, returns, and top-selling products.
 
 
 ---

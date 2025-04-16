@@ -5,7 +5,7 @@ Welcome! This is a curated collection of my real-world Power BI projects where I
 ---
 
 ## 🔹 Projects
-### [📈 eCommerce Sales Overview](./ecommerce-roi-dashboard/)
+### [📈 eCommerce Sales Overview](./OE Sales Overview 2022.png)
 A Power BI dashboard that tracks campaign performance, ROI, and daily spend across multiple platforms.
 
 ### [🎧 Contact Center SLA Tracker](./contact-center-sla/)
